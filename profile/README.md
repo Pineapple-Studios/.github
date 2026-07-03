@@ -101,7 +101,6 @@ As pessoas por trás da magia:
 
 | Membro              | GitHub                                             |
 | ------------------- | -------------------------------------------------- |
-| Bruno Casquet       | [@brunocasquet](https://github.com/brunocasquet)   |
 | Dan                 | [@Dansuzbr](https://github.com/Dansuzbr)           |
 | Erick da Silva Dahl | [@ErickDahl](https://github.com/ErickDahl)         |
 | Goblins Den         | [@GoblinsDen](https://github.com/GoblinsDen)       |
